@@ -1,5 +1,8 @@
 # Hello there :wave:
 <center>This is to be centered</center>
+<p align=center>
+  # Hello there
+</p>
 <pre>
 My name is Paul Nasdaq. I am a software engineer
 I write code mostly in Python, Javascript/Typescript and (recently) Go
