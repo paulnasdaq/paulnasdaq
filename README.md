@@ -1,6 +1,7 @@
-# Hi there :wave:
+# Hello there :wave:
 <pre>
-Hi, my name is Paul Nasdaq. I am a software engineer
+My name is Paul Nasdaq. I am a software engineer
+I write code mostly in Python, Javascript and (recently) Go
 </pre>
 
 <!--
