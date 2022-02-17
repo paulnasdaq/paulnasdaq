@@ -2,6 +2,9 @@
 <pre>
 My name is Paul Nasdaq. I am a software engineer
 I write code mostly in Python, Javascript and (recently) Go
+I am an experienced full-stack developer
+
+..and I use Linux
 </pre>
 
 <!--
