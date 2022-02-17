@@ -1,10 +1,10 @@
 # Hello there :wave:
 <pre>
 My name is Paul Nasdaq. I am a software engineer
-I write code mostly in Python, Javascript and (recently) Go
-I am an experienced full-stack developer
+I write code mostly in Python, Javascript/Typescript and (recently) Go
+I am an experienced full-stack web developer
 
-..and I use Linux
+..and I use Linux :-)
 </pre>
 
 <!--
