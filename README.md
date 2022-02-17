@@ -1,10 +1,12 @@
 <div align=center>
   <h1>Hi.. 👋</h1>
 </div>
+
 <pre>
 My name is Paul Nasdaq. I am a software engineer
 I write code mostly in Python, Javascript/Typescript and (recently) Go
 I am an experienced full-stack web developer
+
 
 ..and I use Linux :-)
 </pre>
