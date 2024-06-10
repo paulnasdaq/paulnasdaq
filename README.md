@@ -6,6 +6,7 @@
 My name is Paul Nasdaq. I am a software engineer
 I write code mostly in Python, Javascript/Typescript and (recently) Dart/Flutter
 I am an experienced full-stack web developer
+I am an aspiring Data Scientist | Machine Learning specialist
 
 
 ..and I use Linux :-)
