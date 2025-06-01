@@ -1,5 +1,5 @@
 ### Hi there, I'm Paul Nasdaq 👋  
-🚀 Full-Stack Developer | Python & JavaScript Enthusiast | Open-Source Contributor  
+🚀 Full-Stack Developer | Python, Go & JavaScript Enthusiast | Open-Source Contributor  
 💡 Passionate about Software Engineering, AI, and Cloud Computing  
 
 🔧 **Tech Stack**  
