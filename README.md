@@ -3,7 +3,7 @@
 💡 Passionate about Software Engineering, AI, and Cloud Computing  
 
 🔧 **Tech Stack**  
-- Backend: Golang | Python (Flask, Django, FastAPI) | Node.js (Express, NestJS)  
+- Backend: Python (Flask, Django, FastAPI) | Node.js (Express, NestJS) | Java
 - Frontend: Angular, React, React Native, Flutter
 - DevOps: Docker, CI/CD, Linux, Jenkins
 - Databases: PostgreSQL, MongoDB, Redis
