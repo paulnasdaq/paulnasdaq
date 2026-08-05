@@ -9,4 +9,4 @@
 - Databases: PostgreSQL, MongoDB, Redis
 
 📫 Reach me: 
-[LinkedIn](https://linkedin.com/in/paulnasdaq) | [Email](mailto:nasdaqpaul@gmail.com) | [Portfolio](https://paulnasdaq.com)
+[LinkedIn](https://linkedin.com/in/paulnasdaq) | [Email](mailto:nasdaqpaul@gmail.com) | [Professional blog](https://nexusrl.com)
